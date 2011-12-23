@@ -13,10 +13,12 @@ Usage
 
 ```javascript
 $(document).ready(function() {
-	$('#inputId').addPlaceholder();
+	$('.inputPlaceholder').addPlaceholder();
 });
 ```
 
+and the html...
+
 ```html
-<input id="inputId" type="text" name="test" placeholder="Testing placeholder"/>
+<input class="inputPlaceholder" type="text" name="test" placeholder="Testing placeholder"/>
 ```
