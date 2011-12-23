@@ -16,3 +16,7 @@ $(document).ready(function() {
 	$('#inputId').addPlaceholder();
 });
 ```
+
+```html
+<input id="inputId" type="text" name="test" placeholder="Testing placeholder"/>
+```
