@@ -13,6 +13,6 @@ Usage
 
 ```javascript
 $(document).ready(function() {
-	$('[placeholder]').addPlaceholder();
+	$('#inputId').addPlaceholder();
 });
 ```
